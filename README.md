@@ -5,4 +5,4 @@ mvn clean install
 
 http://localhost:8080/users
 
-http://localhost:8080/users/1/albums
+http://localhost:8080/users/{userId}/albums
